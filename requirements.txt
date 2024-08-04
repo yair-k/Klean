@@ -1,0 +1,8 @@
+codecarbon
+PyYAML
+torch
+transformers
+datasets
+PyGithub
+python-dotenv
+
